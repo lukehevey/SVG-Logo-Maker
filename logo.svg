@@ -1,1 +1,1 @@
-<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><g>square<rect x="74" y="41" width="160" height="160" fill="purple" /><text x="150" y="130" text-anchor="middle" font-size="45" fill="pink">EKG</text></g></svg>
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><g>circle<circle cx="148" cy="113" r="80" fill="violet" /><text x="150" y="130" text-anchor="middle" font-size="55" fill="pink">EKG</text></g></svg>
