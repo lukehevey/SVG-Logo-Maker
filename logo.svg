@@ -1,1 +1,1 @@
-<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><g>square<rect x="100" y="125" width="160" height="160" fill="pink" /><text x="150" y="130" text-anchor="middle" font-size="55" fill="violet">EKG</text></g></svg>
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><g>triangle<polygon points="150, 18 244, 182 56, 182" fill="violet" /><text x="150" y="130" text-anchor="middle" font-size="55" fill="pink">EKG</text></g></svg>
