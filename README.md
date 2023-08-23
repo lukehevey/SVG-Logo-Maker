@@ -1,9 +1,10 @@
-# SVG Logo Maker
+![exampleLogo](https://github.com/lukehevey/SVG-Logo-Maker/assets/135035859/a1804d1c-10d7-4baa-8ad6-0b4485188df9)# SVG Logo Maker
 
   
   
 ## Table of Contents
   -[Walkthrough](#link-for-video-walkthrough)
+  -[Example Logo](#example-logo)
   -[Description](#description)
   -[Installation](#installation)
   -[Usage](#usage)
@@ -14,6 +15,10 @@
 
 ## Link for Video Walkthrough
 [Video Walkthrough](https://watch.screencastify.com/v/NdhwmYU9sJHQYGT9MAWp)
+
+
+## Example Logo
+![Uploading <svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><rect x="72" y="39" width="160" height="160" fill="salmon" /><text x="152" y="140" text-anchor="middle" font-size="45" fill="black">EKG</text></svg>exampleLogo.svg…]()
 
   
 ## Description
