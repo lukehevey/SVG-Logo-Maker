@@ -32,13 +32,6 @@
 ## Usage
   The steps for usage are using the command-line and typing 'node index.js'.
 
-
-## License
-  
-      
-## Contributing
-  
-  
   
 ## Tests
   To run the test for this application, use the command-line and type 'npm run test'.
