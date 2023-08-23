@@ -22,7 +22,7 @@
 
   
 ## Description
-  The point of this project was to create a command-line application that creates a simple logo for the user. This project came with difficulties, but they were able to be overcome. The main language for this project is JavaScript. 
+  The point of this project was to create a command-line application that creates a simple logo for the user. Questions will ask the user for logo initials that are no longer than three characters, input for the color of text, a selection of three shapes(Triangle, Circle, or Square), and input for the color of the logo's background. This project came with difficulties, but they were able to be overcome. The main language for this project is JavaScript. 
   
   
 ## Installation
